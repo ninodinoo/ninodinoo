@@ -1,11 +1,11 @@
 
 
-# 👋 Hey, ich bin [Nino]  
+# 👋 Hey, ich bin Nino
 
 💻 **Schüler (Fachrichtung Informatik)** | 📱 **App-Entwickler (Frontend & Backend)**  
 
 Ich bin 18 Jahre alt und entwickle leidenschaftlich gerne Software – besonders **Mobile Apps** mit **Dart (Flutter)** und **Java**.  
-Nebenbei interessiere ich mich auch für **Kotlin** und **Assembly**.  
+Nebenbei interessiere ich mich auch für **Kotlin** .  
 Ich arbeite gerne Fullstack – vom UI bis zur Datenbank – meist mit **Supabase** im Backend.  
 
 ---
@@ -24,7 +24,6 @@ Ich arbeite gerne Fullstack – vom UI bis zur Datenbank – meist mit **Supabas
 ### 🧩 Backend & Datenbanken
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
@@ -34,15 +33,13 @@ Ich arbeite gerne Fullstack – vom UI bis zur Datenbank – meist mit **Supabas
 
 - 🔧 **Mobile App Entwicklung** mit Flutter  
 - 🧠 **Fullstack Projekte** mit Supabase  
-- 🧩 Experimentiere mit **Java-Backends** und kleinen Tools  
-- 🧱 Interessiere mich für **Low-Level Programmierung** mit Assembly  
+- 🧩 Experimentiere mit **Java** und kleinen Tools  
 
 ---
 
 ## 🌐 Kontakt & Socials
 <p align="left">
   <a href="https://github.com/DEIN-GITHUB-NAME" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/DEIN-LINKEDIN" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
 ---
