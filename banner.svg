@@ -1,9 +1,9 @@
-<svg width="900" height="1000" viewBox="0 0 900 1000" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="1100" viewBox="0 0 900 1100" xmlns="http://www.w3.org/2000/svg">
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  BACKGROUND                                            -->
 <!-- ═══════════════════════════════════════════════════════ -->
-<rect width="900" height="1000" fill="#1a1a1a"/>
+<rect width="900" height="1100" fill="#1a1a1a"/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  SECTION 1 · HEADER ATMOSPHERIC SHAPES                -->
@@ -47,30 +47,27 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  WELCOME BOX                                          -->
 <!-- ═══════════════════════════════════════════════════════ -->
-<rect x="40" y="24" width="336" height="42" rx="4" fill="none" stroke="#D97757" stroke-width="1.5"/>
-<text x="57" y="52" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="17" font-weight="bold">&#10022;  Welcome to ninodinoo</text>
+<rect x="40" y="22" width="356" height="46" rx="4" fill="none" stroke="#D97757" stroke-width="1.5"/>
+<text x="57" y="53" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="bold">&#10022;  Welcome to ninodinoo</text>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  NINODINOO TITLE + SUBTITLE                           -->
 <!-- ═══════════════════════════════════════════════════════ -->
-<text x="40" y="182" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="90" font-weight="bold">NINODINOO</text>
-<text x="46" y="212" fill="#555" font-family="'Courier New',Courier,monospace" font-size="15">AI Developer  ·  Claude Code Power User  ·  Builder</text>
+<text x="38" y="188" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="100" font-weight="bold">NINODINOO</text>
+<text x="46" y="220" fill="#555" font-family="'Courier New',Courier,monospace" font-size="16">AI Developer  ·  Claude Code Power User  ·  Builder</text>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--  PIXEL ART DINO (front-facing, like githubpbbild.png) -->
-<!--  13 cols × 15 rows, pixel=14px, origin=(695,85)       -->
-<!--  Color #D97757 · Eyes/belly = background shows thru   -->
+<!--  PIXEL ART DINO                                        -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!-- Row 0 (y=85): head top, cols 3-8 -->
+<!-- Row 0 -->
 <rect x="737" y="85"  width="14" height="14" fill="#D97757"/>
 <rect x="751" y="85"  width="14" height="14" fill="#D97757"/>
 <rect x="765" y="85"  width="14" height="14" fill="#D97757"/>
 <rect x="779" y="85"  width="14" height="14" fill="#D97757"/>
 <rect x="793" y="85"  width="14" height="14" fill="#D97757"/>
 <rect x="807" y="85"  width="14" height="14" fill="#D97757"/>
-
-<!-- Row 1 (y=99): head wide, cols 2-9 -->
+<!-- Row 1 -->
 <rect x="723" y="99"  width="14" height="14" fill="#D97757"/>
 <rect x="737" y="99"  width="14" height="14" fill="#D97757"/>
 <rect x="751" y="99"  width="14" height="14" fill="#D97757"/>
@@ -79,20 +76,17 @@
 <rect x="793" y="99"  width="14" height="14" fill="#D97757"/>
 <rect x="807" y="99"  width="14" height="14" fill="#D97757"/>
 <rect x="821" y="99"  width="14" height="14" fill="#D97757"/>
-
-<!-- Row 2 (y=113): head + eyes, cols 2,3 [gap c4,c5=eyes] col6 [gap c7,c8=eyes] col9 -->
+<!-- Row 2 -->
 <rect x="723" y="113" width="14" height="14" fill="#D97757"/>
 <rect x="737" y="113" width="14" height="14" fill="#D97757"/>
 <rect x="779" y="113" width="14" height="14" fill="#D97757"/>
 <rect x="821" y="113" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 3 (y=127): same -->
+<!-- Row 3 -->
 <rect x="723" y="127" width="14" height="14" fill="#D97757"/>
 <rect x="737" y="127" width="14" height="14" fill="#D97757"/>
 <rect x="779" y="127" width="14" height="14" fill="#D97757"/>
 <rect x="821" y="127" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 4 (y=141): lower head, cols 2-9 -->
+<!-- Row 4 -->
 <rect x="723" y="141" width="14" height="14" fill="#D97757"/>
 <rect x="737" y="141" width="14" height="14" fill="#D97757"/>
 <rect x="751" y="141" width="14" height="14" fill="#D97757"/>
@@ -101,8 +95,7 @@
 <rect x="793" y="141" width="14" height="14" fill="#D97757"/>
 <rect x="807" y="141" width="14" height="14" fill="#D97757"/>
 <rect x="821" y="141" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 5 (y=155): jaw bump left (c1-c4), gap c5, mouth notch c6 empty, c7-c9 -->
+<!-- Row 5 -->
 <rect x="709" y="155" width="14" height="14" fill="#D97757"/>
 <rect x="723" y="155" width="14" height="14" fill="#D97757"/>
 <rect x="737" y="155" width="14" height="14" fill="#D97757"/>
@@ -110,16 +103,14 @@
 <rect x="793" y="155" width="14" height="14" fill="#D97757"/>
 <rect x="807" y="155" width="14" height="14" fill="#D97757"/>
 <rect x="821" y="155" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 6 (y=169): neck step narrower, cols 3-8 -->
+<!-- Row 6 -->
 <rect x="737" y="169" width="14" height="14" fill="#D97757"/>
 <rect x="751" y="169" width="14" height="14" fill="#D97757"/>
 <rect x="765" y="169" width="14" height="14" fill="#D97757"/>
 <rect x="779" y="169" width="14" height="14" fill="#D97757"/>
 <rect x="793" y="169" width="14" height="14" fill="#D97757"/>
 <rect x="807" y="169" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 7 (y=183): shoulder, cols 2-9 -->
+<!-- Row 7 -->
 <rect x="723" y="183" width="14" height="14" fill="#D97757"/>
 <rect x="737" y="183" width="14" height="14" fill="#D97757"/>
 <rect x="751" y="183" width="14" height="14" fill="#D97757"/>
@@ -128,8 +119,7 @@
 <rect x="793" y="183" width="14" height="14" fill="#D97757"/>
 <rect x="807" y="183" width="14" height="14" fill="#D97757"/>
 <rect x="821" y="183" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 8 (y=197): body + arms, cols 0-10 -->
+<!-- Row 8 -->
 <rect x="695" y="197" width="14" height="14" fill="#D97757"/>
 <rect x="709" y="197" width="14" height="14" fill="#D97757"/>
 <rect x="723" y="197" width="14" height="14" fill="#D97757"/>
@@ -141,8 +131,7 @@
 <rect x="807" y="197" width="14" height="14" fill="#D97757"/>
 <rect x="821" y="197" width="14" height="14" fill="#D97757"/>
 <rect x="835" y="197" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 9 (y=211): body + belly gap (c5,c6) + left arm (c0) + tail (c11,c12) -->
+<!-- Row 9 -->
 <rect x="695" y="211" width="14" height="14" fill="#D97757"/>
 <rect x="723" y="211" width="14" height="14" fill="#D97757"/>
 <rect x="737" y="211" width="14" height="14" fill="#D97757"/>
@@ -152,8 +141,7 @@
 <rect x="821" y="211" width="14" height="14" fill="#D97757"/>
 <rect x="849" y="211" width="14" height="14" fill="#D97757"/>
 <rect x="863" y="211" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 10 (y=225): body + belly gap + tail tip (c12) -->
+<!-- Row 10 -->
 <rect x="723" y="225" width="14" height="14" fill="#D97757"/>
 <rect x="737" y="225" width="14" height="14" fill="#D97757"/>
 <rect x="751" y="225" width="14" height="14" fill="#D97757"/>
@@ -161,8 +149,7 @@
 <rect x="807" y="225" width="14" height="14" fill="#D97757"/>
 <rect x="821" y="225" width="14" height="14" fill="#D97757"/>
 <rect x="863" y="225" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 11 (y=239): lower body, cols 2-9 -->
+<!-- Row 11 -->
 <rect x="723" y="239" width="14" height="14" fill="#D97757"/>
 <rect x="737" y="239" width="14" height="14" fill="#D97757"/>
 <rect x="751" y="239" width="14" height="14" fill="#D97757"/>
@@ -171,20 +158,17 @@
 <rect x="793" y="239" width="14" height="14" fill="#D97757"/>
 <rect x="807" y="239" width="14" height="14" fill="#D97757"/>
 <rect x="821" y="239" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 12 (y=253): upper legs, cols 3,4 and 7,8 -->
+<!-- Row 12 -->
 <rect x="737" y="253" width="14" height="14" fill="#D97757"/>
 <rect x="751" y="253" width="14" height="14" fill="#D97757"/>
 <rect x="793" y="253" width="14" height="14" fill="#D97757"/>
 <rect x="807" y="253" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 13 (y=267): legs -->
+<!-- Row 13 -->
 <rect x="737" y="267" width="14" height="14" fill="#D97757"/>
 <rect x="751" y="267" width="14" height="14" fill="#D97757"/>
 <rect x="793" y="267" width="14" height="14" fill="#D97757"/>
 <rect x="807" y="267" width="14" height="14" fill="#D97757"/>
-
-<!-- Row 14 (y=281): feet wider, cols 2,3,4 and 6,7,8 -->
+<!-- Row 14 -->
 <rect x="723" y="281" width="14" height="14" fill="#D97757"/>
 <rect x="737" y="281" width="14" height="14" fill="#D97757"/>
 <rect x="751" y="281" width="14" height="14" fill="#D97757"/>
@@ -195,70 +179,70 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  SECTION 1 SEPARATOR + MENU                           -->
 <!-- ═══════════════════════════════════════════════════════ -->
-<line x1="0" y1="318" x2="900" y2="318" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
-<text x="40"  y="348" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="16">&#10095;</text>
-<text x="62"  y="348" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="16" font-weight="bold">1.  Building AI tools &amp; Claude Code extensions</text>
-<text x="62"  y="374" fill="#505050" font-family="'Courier New',Courier,monospace" font-size="16">2.  Flutter · Dart · Supabase · Kotlin · Java</text>
+<line x1="0" y1="330" x2="900" y2="330" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+<text x="40"  y="364" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="18">&#10095;</text>
+<text x="64"  y="364" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold">1.  Building AI tools &amp; Claude Code extensions</text>
+<text x="64"  y="394" fill="#505050" font-family="'Courier New',Courier,monospace" font-size="18">2.  Flutter · Dart · Supabase · Kotlin · Java</text>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  SECTION 2 · TECH STACK                               -->
 <!-- ═══════════════════════════════════════════════════════ -->
-<line x1="0" y1="402" x2="900" y2="402" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+<line x1="0" y1="426" x2="900" y2="426" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
 
-<text x="40"  y="430" fill="#888" font-family="'Courier New',Courier,monospace" font-size="16">ninodinoo@dev</text>
-<text x="194" y="430" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="16">  ~/tech-stack  &#x26A1;</text>
+<text x="40"  y="458" fill="#888" font-family="'Courier New',Courier,monospace" font-size="18">ninodinoo@dev</text>
+<text x="208" y="458" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="18">  ~/tech-stack  &#x26A1;</text>
 
-<line x1="0" y1="444" x2="900" y2="444" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+<line x1="0" y1="474" x2="900" y2="474" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
 
-<text x="40"  y="476" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="16">$</text>
-<text x="60"  y="476" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="16">cat ./ai-tooling</text>
-<text x="60"  y="500" fill="#666" font-family="'Courier New',Courier,monospace" font-size="15">claude-code  ·  mcp-servers  ·  anthropic-sdk  ·  prompt-engineering</text>
+<text x="40"  y="510" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="18">$</text>
+<text x="62"  y="510" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="18">cat ./ai-tooling</text>
+<text x="62"  y="536" fill="#666" font-family="'Courier New',Courier,monospace" font-size="16">claude-code  ·  mcp-servers  ·  anthropic-sdk  ·  prompt-engineering</text>
 
-<text x="40"  y="532" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="16">$</text>
-<text x="60"  y="532" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="16">cat ./languages</text>
-<text x="60"  y="556" fill="#666" font-family="'Courier New',Courier,monospace" font-size="15">dart  ·  flutter  ·  kotlin  ·  java  ·  typescript  ·  assembly</text>
+<text x="40"  y="572" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="18">$</text>
+<text x="62"  y="572" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="18">cat ./languages</text>
+<text x="62"  y="598" fill="#666" font-family="'Courier New',Courier,monospace" font-size="16">dart  ·  flutter  ·  kotlin  ·  java  ·  typescript  ·  assembly</text>
 
-<text x="40"  y="588" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="16">$</text>
-<text x="60"  y="588" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="16">cat ./backend</text>
-<text x="60"  y="612" fill="#666" font-family="'Courier New',Courier,monospace" font-size="15">supabase  ·  postgresql  ·  firebase  ·  rest-apis</text>
+<text x="40"  y="634" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="18">$</text>
+<text x="62"  y="634" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="18">cat ./backend</text>
+<text x="62"  y="660" fill="#666" font-family="'Courier New',Courier,monospace" font-size="16">supabase  ·  postgresql  ·  firebase  ·  rest-apis</text>
 
-<text x="40"  y="644" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="16">$</text>
-<rect x="60"  y="628" width="10" height="16" fill="#D97757" opacity="0.6"/>
+<text x="40"  y="694" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="18">$</text>
+<rect x="62"  y="677" width="11" height="18" fill="#D97757" opacity="0.6"/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  SECTION 3 · ABOUT / FOCUS                            -->
 <!-- ═══════════════════════════════════════════════════════ -->
-<line x1="0" y1="668" x2="900" y2="668" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+<line x1="0" y1="718" x2="900" y2="718" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
 
-<text x="40"  y="698" fill="#888" font-family="'Courier New',Courier,monospace" font-size="16">ninodinoo@dev</text>
-<text x="194" y="698" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="16">  ~/about  &#x26A1;</text>
+<text x="40"  y="752" fill="#888" font-family="'Courier New',Courier,monospace" font-size="18">ninodinoo@dev</text>
+<text x="208" y="752" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="18">  ~/about  &#x26A1;</text>
 
-<line x1="0" y1="712" x2="900" y2="712" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+<line x1="0" y1="768" x2="900" y2="768" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
 
-<text x="40"  y="744" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="16">$</text>
-<text x="60"  y="744" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="16">cat focus.txt</text>
+<text x="40"  y="804" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="18">$</text>
+<text x="62"  y="804" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="18">cat focus.txt</text>
 
-<text x="40"  y="772" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="16">&#x25B8;</text>
-<text x="62"  y="772" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="16">Building AI tools &amp; Claude Code extensions</text>
+<text x="40"  y="836" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="18">&#x25B8;</text>
+<text x="64"  y="836" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="18">Building AI tools &amp; Claude Code extensions</text>
 
-<text x="40"  y="798" fill="#444" font-family="'Courier New',Courier,monospace" font-size="16">&#x25B8;</text>
-<text x="62"  y="798" fill="#888" font-family="'Courier New',Courier,monospace" font-size="16">MCP servers for AI-powered workflows</text>
+<text x="40"  y="866" fill="#444" font-family="'Courier New',Courier,monospace" font-size="18">&#x25B8;</text>
+<text x="64"  y="866" fill="#888" font-family="'Courier New',Courier,monospace" font-size="18">MCP servers for AI-powered workflows</text>
 
-<text x="40"  y="824" fill="#444" font-family="'Courier New',Courier,monospace" font-size="16">&#x25B8;</text>
-<text x="62"  y="824" fill="#888" font-family="'Courier New',Courier,monospace" font-size="16">Cross-platform mobile apps (Flutter + Supabase)</text>
+<text x="40"  y="896" fill="#444" font-family="'Courier New',Courier,monospace" font-size="18">&#x25B8;</text>
+<text x="64"  y="896" fill="#888" font-family="'Courier New',Courier,monospace" font-size="18">Cross-platform mobile apps (Flutter + Supabase)</text>
 
-<text x="40"  y="850" fill="#444" font-family="'Courier New',Courier,monospace" font-size="16">&#x25B8;</text>
-<text x="62"  y="850" fill="#888" font-family="'Courier New',Courier,monospace" font-size="16">LLM research, agentic systems &amp; prompt engineering</text>
+<text x="40"  y="926" fill="#444" font-family="'Courier New',Courier,monospace" font-size="18">&#x25B8;</text>
+<text x="64"  y="926" fill="#888" font-family="'Courier New',Courier,monospace" font-size="18">LLM research, agentic systems &amp; prompt engineering</text>
 
-<text x="40"  y="878" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="16">$</text>
-<rect x="60"  y="862" width="10" height="16" fill="#D97757" opacity="0.6"/>
+<text x="40"  y="958" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="18">$</text>
+<rect x="62"  y="941" width="11" height="18" fill="#D97757" opacity="0.6"/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  SECTION 4 · FOOTER                                   -->
 <!-- ═══════════════════════════════════════════════════════ -->
-<line x1="0" y1="900" x2="900" y2="900" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+<line x1="0" y1="982" x2="900" y2="982" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
 
-<text x="40"  y="930" fill="#3e3e3e" font-family="'Courier New',Courier,monospace" font-size="15">ninodinoo@dev  ·  session: active  ·  &#x1F995;  v1.0.0  ·  logout? [n]</text>
-<text x="40"  y="956" fill="#2a2a2a" font-family="'Courier New',Courier,monospace" font-size="13">Syntax theme: ninodinoo  (claude-code edition)</text>
+<text x="40"  y="1014" fill="#3e3e3e" font-family="'Courier New',Courier,monospace" font-size="16">ninodinoo@dev  ·  session: active  ·  &#x1F995;  v1.0.0  ·  logout? [n]</text>
+<text x="40"  y="1044" fill="#2a2a2a" font-family="'Courier New',Courier,monospace" font-size="14">Syntax theme: ninodinoo  (claude-code edition)</text>
 
 </svg>
