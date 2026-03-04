@@ -1,96 +1,264 @@
-<svg width="900" height="362" viewBox="0 0 900 362" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="820" viewBox="0 0 900 820" xmlns="http://www.w3.org/2000/svg">
 
-  <rect width="900" height="362" fill="#1a1a1a"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  BACKGROUND                                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<rect width="900" height="820" fill="#1a1a1a"/>
 
-  <!-- Background terrain A -->
-  <rect x="330" y="120" width="4" height="4" fill="#252525"/><rect x="336" y="120" width="4" height="4" fill="#252525"/>
-  <rect x="342" y="120" width="4" height="4" fill="#252525"/><rect x="348" y="120" width="4" height="4" fill="#252525"/>
-  <rect x="354" y="120" width="4" height="4" fill="#252525"/><rect x="360" y="120" width="4" height="4" fill="#252525"/>
-  <rect x="366" y="120" width="4" height="4" fill="#252525"/><rect x="372" y="120" width="4" height="4" fill="#252525"/>
-  <rect x="378" y="120" width="4" height="4" fill="#252525"/><rect x="384" y="120" width="4" height="4" fill="#252525"/>
-  <rect x="342" y="114" width="4" height="4" fill="#252525"/><rect x="348" y="114" width="4" height="4" fill="#252525"/>
-  <rect x="354" y="114" width="4" height="4" fill="#252525"/><rect x="360" y="114" width="4" height="4" fill="#252525"/>
-  <rect x="366" y="114" width="4" height="4" fill="#252525"/><rect x="372" y="114" width="4" height="4" fill="#252525"/>
-  <rect x="354" y="108" width="4" height="4" fill="#252525"/><rect x="360" y="108" width="4" height="4" fill="#252525"/>
-  <rect x="366" y="108" width="4" height="4" fill="#252525"/>
-  <rect x="360" y="102" width="4" height="4" fill="#252525"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  SECTION 1 · HEADER ATMOSPHERIC SHAPES                -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-  <!-- Background terrain B -->
-  <rect x="682" y="120" width="4" height="4" fill="#252525"/><rect x="688" y="120" width="4" height="4" fill="#252525"/>
-  <rect x="694" y="120" width="4" height="4" fill="#252525"/><rect x="700" y="120" width="4" height="4" fill="#252525"/>
-  <rect x="706" y="120" width="4" height="4" fill="#252525"/><rect x="712" y="120" width="4" height="4" fill="#252525"/>
-  <rect x="694" y="114" width="4" height="4" fill="#252525"/><rect x="700" y="114" width="4" height="4" fill="#252525"/>
-  <rect x="706" y="114" width="4" height="4" fill="#252525"/>
-  <rect x="700" y="108" width="4" height="4" fill="#252525"/>
+<!-- Terrain cluster A (center-left stepped) -->
+<rect x="290" y="130" width="4" height="4" fill="#242424"/><rect x="296" y="130" width="4" height="4" fill="#242424"/>
+<rect x="302" y="130" width="4" height="4" fill="#242424"/><rect x="308" y="130" width="4" height="4" fill="#242424"/>
+<rect x="314" y="130" width="4" height="4" fill="#242424"/><rect x="320" y="130" width="4" height="4" fill="#242424"/>
+<rect x="326" y="130" width="4" height="4" fill="#242424"/><rect x="332" y="130" width="4" height="4" fill="#242424"/>
+<rect x="302" y="124" width="4" height="4" fill="#242424"/><rect x="308" y="124" width="4" height="4" fill="#242424"/>
+<rect x="314" y="124" width="4" height="4" fill="#242424"/><rect x="320" y="124" width="4" height="4" fill="#242424"/>
+<rect x="314" y="118" width="4" height="4" fill="#242424"/><rect x="320" y="118" width="4" height="4" fill="#242424"/>
+<rect x="320" y="112" width="4" height="4" fill="#242424"/>
 
-  <!-- Background shape C -->
-  <rect x="810" y="76" width="4" height="4" fill="#252525"/><rect x="816" y="76" width="4" height="4" fill="#252525"/>
-  <rect x="822" y="76" width="4" height="4" fill="#252525"/><rect x="828" y="76" width="4" height="4" fill="#252525"/>
-  <rect x="810" y="82" width="4" height="4" fill="#252525"/>
-  <rect x="810" y="88" width="4" height="4" fill="#252525"/><rect x="816" y="88" width="4" height="4" fill="#252525"/>
-  <rect x="822" y="88" width="4" height="4" fill="#252525"/>
-  <rect x="810" y="94" width="4" height="4" fill="#252525"/>
-  <rect x="810" y="100" width="4" height="4" fill="#252525"/><rect x="816" y="100" width="4" height="4" fill="#252525"/>
-  <rect x="822" y="100" width="4" height="4" fill="#252525"/><rect x="828" y="100" width="4" height="4" fill="#252525"/>
+<!-- Terrain cluster B (upper center) -->
+<rect x="460" y="118" width="4" height="4" fill="#242424"/><rect x="466" y="118" width="4" height="4" fill="#242424"/>
+<rect x="472" y="118" width="4" height="4" fill="#242424"/><rect x="478" y="118" width="4" height="4" fill="#242424"/>
+<rect x="484" y="118" width="4" height="4" fill="#242424"/>
+<rect x="466" y="112" width="4" height="4" fill="#242424"/><rect x="472" y="112" width="4" height="4" fill="#242424"/>
+<rect x="478" y="112" width="4" height="4" fill="#242424"/>
+<rect x="472" y="106" width="4" height="4" fill="#242424"/>
 
-  <!-- Stars -->
-  <text x="46"  y="80"  fill="#3a3a3a" font-family="monospace" font-size="15">*</text>
-  <text x="20"  y="168" fill="#3a3a3a" font-family="monospace" font-size="15">*</text>
-  <text x="476" y="90"  fill="#3a3a3a" font-family="monospace" font-size="15">*</text>
-  <text x="608" y="68"  fill="#3a3a3a" font-family="monospace" font-size="15">*</text>
-  <text x="856" y="152" fill="#3a3a3a" font-family="monospace" font-size="15">*</text>
-  <text x="762" y="226" fill="#3a3a3a" font-family="monospace" font-size="15">*</text>
-  <text x="210" y="54"  fill="#3a3a3a" font-family="monospace" font-size="15">*</text>
-  <text x="542" y="210" fill="#3a3a3a" font-family="monospace" font-size="15">*</text>
+<!-- Abstract shape (right side, like Claude's C-shape) -->
+<rect x="600" y="82" width="4" height="4" fill="#242424"/><rect x="606" y="82" width="4" height="4" fill="#242424"/>
+<rect x="612" y="82" width="4" height="4" fill="#242424"/><rect x="618" y="82" width="4" height="4" fill="#242424"/>
+<rect x="600" y="88" width="4" height="4" fill="#242424"/>
+<rect x="600" y="94" width="4" height="4" fill="#242424"/><rect x="606" y="94" width="4" height="4" fill="#242424"/>
+<rect x="600" y="100" width="4" height="4" fill="#242424"/>
+<rect x="600" y="106" width="4" height="4" fill="#242424"/><rect x="606" y="106" width="4" height="4" fill="#242424"/>
+<rect x="612" y="106" width="4" height="4" fill="#242424"/><rect x="618" y="106" width="4" height="4" fill="#242424"/>
 
-  <!-- Welcome box -->
-  <rect x="40" y="22" width="310" height="38" rx="4" fill="none" stroke="#D97757" stroke-width="1.5"/>
-  <text x="57" y="46" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="15" font-weight="bold">&#10022;  Welcome to ninodinoo</text>
+<!-- Stars -->
+<text x="44"  y="78"  fill="#363636" font-family="monospace" font-size="14">*</text>
+<text x="18"  y="162" fill="#363636" font-family="monospace" font-size="14">*</text>
+<text x="536" y="96"  fill="#363636" font-family="monospace" font-size="14">*</text>
+<text x="660" y="68"  fill="#363636" font-family="monospace" font-size="14">*</text>
+<text x="206" y="52"  fill="#363636" font-family="monospace" font-size="14">*</text>
+<text x="430" y="188" fill="#363636" font-family="monospace" font-size="14">*</text>
 
-  <!-- Big title -->
-  <text x="40" y="155" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="92" font-weight="bold">NINODINOO</text>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  WELCOME BOX                                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<rect x="40" y="24" width="308" height="38" rx="4" fill="none" stroke="#D97757" stroke-width="1.5"/>
+<text x="57" y="48" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="15" font-weight="bold">&#10022;  Welcome to ninodinoo</text>
 
-  <!-- Subtitle -->
-  <text x="47" y="183" fill="#555" font-family="'Courier New',Courier,monospace" font-size="13">AI Developer  ·  Claude Code Power User  ·  Builder</text>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  NINODINOO TITLE + SUBTITLE                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<text x="40" y="178" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="80" font-weight="bold">NINODINOO</text>
+<text x="46" y="206" fill="#555" font-family="'Courier New',Courier,monospace" font-size="13">AI Developer  ·  Claude Code Power User  ·  Builder</text>
 
-  <!-- PIXEL ART DINO (9px pixels, origin x=40 y=202) -->
-  <rect x="85"  y="202" width="9" height="9" fill="#D97757"/><rect x="94"  y="202" width="9" height="9" fill="#D97757"/>
-  <rect x="76"  y="211" width="9" height="9" fill="#D97757"/><rect x="85"  y="211" width="9" height="9" fill="#D97757"/>
-  <rect x="94"  y="211" width="9" height="9" fill="#D97757"/><rect x="103" y="211" width="9" height="9" fill="#D97757"/>
-  <rect x="67"  y="220" width="9" height="9" fill="#D97757"/><rect x="76"  y="220" width="9" height="9" fill="#D97757"/>
-  <rect x="85"  y="220" width="9" height="9" fill="#2d1510"/>
-  <rect x="94"  y="220" width="9" height="9" fill="#D97757"/><rect x="103" y="220" width="9" height="9" fill="#D97757"/>
-  <rect x="112" y="220" width="9" height="9" fill="#D97757"/>
-  <rect x="49"  y="229" width="9" height="9" fill="#D97757"/><rect x="58"  y="229" width="9" height="9" fill="#D97757"/>
-  <rect x="67"  y="229" width="9" height="9" fill="#D97757"/><rect x="76"  y="229" width="9" height="9" fill="#D97757"/>
-  <rect x="85"  y="229" width="9" height="9" fill="#D97757"/><rect x="94"  y="229" width="9" height="9" fill="#D97757"/>
-  <rect x="103" y="229" width="9" height="9" fill="#D97757"/><rect x="112" y="229" width="9" height="9" fill="#D97757"/>
-  <rect x="121" y="229" width="9" height="9" fill="#D97757"/>
-  <rect x="40"  y="238" width="9" height="9" fill="#D97757"/><rect x="49"  y="238" width="9" height="9" fill="#D97757"/>
-  <rect x="58"  y="238" width="9" height="9" fill="#D97757"/><rect x="67"  y="238" width="9" height="9" fill="#D97757"/>
-  <rect x="76"  y="238" width="9" height="9" fill="#D97757"/><rect x="85"  y="238" width="9" height="9" fill="#D97757"/>
-  <rect x="94"  y="238" width="9" height="9" fill="#D97757"/><rect x="103" y="238" width="9" height="9" fill="#D97757"/>
-  <rect x="112" y="238" width="9" height="9" fill="#D97757"/>
-  <rect x="40"  y="247" width="9" height="9" fill="#D97757"/><rect x="49"  y="247" width="9" height="9" fill="#D97757"/>
-  <rect x="58"  y="247" width="9" height="9" fill="#D97757"/><rect x="67"  y="247" width="9" height="9" fill="#D97757"/>
-  <rect x="76"  y="247" width="9" height="9" fill="#D97757"/><rect x="85"  y="247" width="9" height="9" fill="#D97757"/>
-  <rect x="94"  y="247" width="9" height="9" fill="#D97757"/><rect x="103" y="247" width="9" height="9" fill="#D97757"/>
-  <rect x="49"  y="256" width="9" height="9" fill="#D97757"/><rect x="58"  y="256" width="9" height="9" fill="#D97757"/>
-  <rect x="67"  y="256" width="9" height="9" fill="#D97757"/><rect x="76"  y="256" width="9" height="9" fill="#D97757"/>
-  <rect x="85"  y="256" width="9" height="9" fill="#D97757"/><rect x="94"  y="256" width="9" height="9" fill="#D97757"/>
-  <rect x="58"  y="265" width="9" height="9" fill="#D97757"/><rect x="67"  y="265" width="9" height="9" fill="#D97757"/>
-  <rect x="94"  y="265" width="9" height="9" fill="#D97757"/><rect x="103" y="265" width="9" height="9" fill="#D97757"/>
-  <rect x="58"  y="274" width="9" height="9" fill="#D97757"/><rect x="67"  y="274" width="9" height="9" fill="#D97757"/>
-  <rect x="94"  y="274" width="9" height="9" fill="#D97757"/><rect x="103" y="274" width="9" height="9" fill="#D97757"/>
-  <rect x="49"  y="283" width="9" height="9" fill="#D97757"/><rect x="58"  y="283" width="9" height="9" fill="#D97757"/>
-  <rect x="67"  y="283" width="9" height="9" fill="#D97757"/>
-  <rect x="94"  y="283" width="9" height="9" fill="#D97757"/><rect x="103" y="283" width="9" height="9" fill="#D97757"/>
-  <rect x="112" y="283" width="9" height="9" fill="#D97757"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  PIXEL ART DINO (front-facing, like githubpbbild.png) -->
+<!--  13 cols × 15 rows, pixel=14px, origin=(695,85)       -->
+<!--  Color #D97757 · Eyes/belly = background shows thru   -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-  <!-- Separator + menu -->
-  <line x1="0" y1="306" x2="900" y2="306" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
-  <text x="40"  y="330" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="14">&#10095;</text>
-  <text x="60"  y="330" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="bold">1.  Building AI tools &amp; Claude Code extensions</text>
-  <text x="60"  y="350" fill="#555555" font-family="'Courier New',Courier,monospace" font-size="14">2.  Flutter · Dart · Supabase · Kotlin · Java</text>
+<!-- Row 0 (y=85): head top, cols 3-8 -->
+<rect x="737" y="85"  width="14" height="14" fill="#D97757"/>
+<rect x="751" y="85"  width="14" height="14" fill="#D97757"/>
+<rect x="765" y="85"  width="14" height="14" fill="#D97757"/>
+<rect x="779" y="85"  width="14" height="14" fill="#D97757"/>
+<rect x="793" y="85"  width="14" height="14" fill="#D97757"/>
+<rect x="807" y="85"  width="14" height="14" fill="#D97757"/>
+
+<!-- Row 1 (y=99): head wide, cols 2-9 -->
+<rect x="723" y="99"  width="14" height="14" fill="#D97757"/>
+<rect x="737" y="99"  width="14" height="14" fill="#D97757"/>
+<rect x="751" y="99"  width="14" height="14" fill="#D97757"/>
+<rect x="765" y="99"  width="14" height="14" fill="#D97757"/>
+<rect x="779" y="99"  width="14" height="14" fill="#D97757"/>
+<rect x="793" y="99"  width="14" height="14" fill="#D97757"/>
+<rect x="807" y="99"  width="14" height="14" fill="#D97757"/>
+<rect x="821" y="99"  width="14" height="14" fill="#D97757"/>
+
+<!-- Row 2 (y=113): head + eyes, cols 2,3 [gap c4,c5=eyes] col6 [gap c7,c8=eyes] col9 -->
+<rect x="723" y="113" width="14" height="14" fill="#D97757"/>
+<rect x="737" y="113" width="14" height="14" fill="#D97757"/>
+<rect x="779" y="113" width="14" height="14" fill="#D97757"/>
+<rect x="821" y="113" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 3 (y=127): same -->
+<rect x="723" y="127" width="14" height="14" fill="#D97757"/>
+<rect x="737" y="127" width="14" height="14" fill="#D97757"/>
+<rect x="779" y="127" width="14" height="14" fill="#D97757"/>
+<rect x="821" y="127" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 4 (y=141): lower head, cols 2-9 -->
+<rect x="723" y="141" width="14" height="14" fill="#D97757"/>
+<rect x="737" y="141" width="14" height="14" fill="#D97757"/>
+<rect x="751" y="141" width="14" height="14" fill="#D97757"/>
+<rect x="765" y="141" width="14" height="14" fill="#D97757"/>
+<rect x="779" y="141" width="14" height="14" fill="#D97757"/>
+<rect x="793" y="141" width="14" height="14" fill="#D97757"/>
+<rect x="807" y="141" width="14" height="14" fill="#D97757"/>
+<rect x="821" y="141" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 5 (y=155): jaw bump left (c1-c4), gap c5, mouth notch c6 empty, c7-c9 -->
+<rect x="709" y="155" width="14" height="14" fill="#D97757"/>
+<rect x="723" y="155" width="14" height="14" fill="#D97757"/>
+<rect x="737" y="155" width="14" height="14" fill="#D97757"/>
+<rect x="751" y="155" width="14" height="14" fill="#D97757"/>
+<rect x="793" y="155" width="14" height="14" fill="#D97757"/>
+<rect x="807" y="155" width="14" height="14" fill="#D97757"/>
+<rect x="821" y="155" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 6 (y=169): neck step narrower, cols 3-8 -->
+<rect x="737" y="169" width="14" height="14" fill="#D97757"/>
+<rect x="751" y="169" width="14" height="14" fill="#D97757"/>
+<rect x="765" y="169" width="14" height="14" fill="#D97757"/>
+<rect x="779" y="169" width="14" height="14" fill="#D97757"/>
+<rect x="793" y="169" width="14" height="14" fill="#D97757"/>
+<rect x="807" y="169" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 7 (y=183): shoulder, cols 2-9 -->
+<rect x="723" y="183" width="14" height="14" fill="#D97757"/>
+<rect x="737" y="183" width="14" height="14" fill="#D97757"/>
+<rect x="751" y="183" width="14" height="14" fill="#D97757"/>
+<rect x="765" y="183" width="14" height="14" fill="#D97757"/>
+<rect x="779" y="183" width="14" height="14" fill="#D97757"/>
+<rect x="793" y="183" width="14" height="14" fill="#D97757"/>
+<rect x="807" y="183" width="14" height="14" fill="#D97757"/>
+<rect x="821" y="183" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 8 (y=197): body + arms, cols 0-10 -->
+<rect x="695" y="197" width="14" height="14" fill="#D97757"/>
+<rect x="709" y="197" width="14" height="14" fill="#D97757"/>
+<rect x="723" y="197" width="14" height="14" fill="#D97757"/>
+<rect x="737" y="197" width="14" height="14" fill="#D97757"/>
+<rect x="751" y="197" width="14" height="14" fill="#D97757"/>
+<rect x="765" y="197" width="14" height="14" fill="#D97757"/>
+<rect x="779" y="197" width="14" height="14" fill="#D97757"/>
+<rect x="793" y="197" width="14" height="14" fill="#D97757"/>
+<rect x="807" y="197" width="14" height="14" fill="#D97757"/>
+<rect x="821" y="197" width="14" height="14" fill="#D97757"/>
+<rect x="835" y="197" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 9 (y=211): body + belly gap (c5,c6) + left arm (c0) + tail (c11,c12) -->
+<rect x="695" y="211" width="14" height="14" fill="#D97757"/>
+<rect x="723" y="211" width="14" height="14" fill="#D97757"/>
+<rect x="737" y="211" width="14" height="14" fill="#D97757"/>
+<rect x="751" y="211" width="14" height="14" fill="#D97757"/>
+<rect x="793" y="211" width="14" height="14" fill="#D97757"/>
+<rect x="807" y="211" width="14" height="14" fill="#D97757"/>
+<rect x="821" y="211" width="14" height="14" fill="#D97757"/>
+<rect x="849" y="211" width="14" height="14" fill="#D97757"/>
+<rect x="863" y="211" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 10 (y=225): body + belly gap + tail tip (c12) -->
+<rect x="723" y="225" width="14" height="14" fill="#D97757"/>
+<rect x="737" y="225" width="14" height="14" fill="#D97757"/>
+<rect x="751" y="225" width="14" height="14" fill="#D97757"/>
+<rect x="793" y="225" width="14" height="14" fill="#D97757"/>
+<rect x="807" y="225" width="14" height="14" fill="#D97757"/>
+<rect x="821" y="225" width="14" height="14" fill="#D97757"/>
+<rect x="863" y="225" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 11 (y=239): lower body, cols 2-9 -->
+<rect x="723" y="239" width="14" height="14" fill="#D97757"/>
+<rect x="737" y="239" width="14" height="14" fill="#D97757"/>
+<rect x="751" y="239" width="14" height="14" fill="#D97757"/>
+<rect x="765" y="239" width="14" height="14" fill="#D97757"/>
+<rect x="779" y="239" width="14" height="14" fill="#D97757"/>
+<rect x="793" y="239" width="14" height="14" fill="#D97757"/>
+<rect x="807" y="239" width="14" height="14" fill="#D97757"/>
+<rect x="821" y="239" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 12 (y=253): upper legs, cols 3,4 and 7,8 -->
+<rect x="737" y="253" width="14" height="14" fill="#D97757"/>
+<rect x="751" y="253" width="14" height="14" fill="#D97757"/>
+<rect x="793" y="253" width="14" height="14" fill="#D97757"/>
+<rect x="807" y="253" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 13 (y=267): legs -->
+<rect x="737" y="267" width="14" height="14" fill="#D97757"/>
+<rect x="751" y="267" width="14" height="14" fill="#D97757"/>
+<rect x="793" y="267" width="14" height="14" fill="#D97757"/>
+<rect x="807" y="267" width="14" height="14" fill="#D97757"/>
+
+<!-- Row 14 (y=281): feet wider, cols 2,3,4 and 6,7,8 -->
+<rect x="723" y="281" width="14" height="14" fill="#D97757"/>
+<rect x="737" y="281" width="14" height="14" fill="#D97757"/>
+<rect x="751" y="281" width="14" height="14" fill="#D97757"/>
+<rect x="779" y="281" width="14" height="14" fill="#D97757"/>
+<rect x="793" y="281" width="14" height="14" fill="#D97757"/>
+<rect x="807" y="281" width="14" height="14" fill="#D97757"/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  SECTION 1 SEPARATOR + MENU                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<line x1="0" y1="310" x2="900" y2="310" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+<text x="40"  y="334" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="14">&#10095;</text>
+<text x="60"  y="334" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="bold">1.  Building AI tools &amp; Claude Code extensions</text>
+<text x="60"  y="354" fill="#505050" font-family="'Courier New',Courier,monospace" font-size="14">2.  Flutter · Dart · Supabase · Kotlin · Java</text>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  SECTION 2 · TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<line x1="0" y1="378" x2="900" y2="378" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+
+<text x="40"  y="401" fill="#888" font-family="'Courier New',Courier,monospace" font-size="14">ninodinoo@dev</text>
+<text x="178" y="401" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="14">  ~/tech-stack  &#x26A1;</text>
+
+<line x1="0" y1="412" x2="900" y2="412" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+
+<text x="40"  y="436" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="14">$</text>
+<text x="57"  y="436" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="14">cat ./ai-tooling</text>
+<text x="57"  y="456" fill="#666" font-family="'Courier New',Courier,monospace" font-size="13">claude-code  ·  mcp-servers  ·  anthropic-sdk  ·  prompt-engineering</text>
+
+<text x="40"  y="479" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="14">$</text>
+<text x="57"  y="479" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="14">cat ./languages</text>
+<text x="57"  y="499" fill="#666" font-family="'Courier New',Courier,monospace" font-size="13">dart  ·  flutter  ·  kotlin  ·  java  ·  typescript  ·  assembly</text>
+
+<text x="40"  y="522" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="14">$</text>
+<text x="57"  y="522" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="14">cat ./backend</text>
+<text x="57"  y="542" fill="#666" font-family="'Courier New',Courier,monospace" font-size="13">supabase  ·  postgresql  ·  firebase  ·  rest-apis</text>
+
+<text x="40"  y="562" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="14">$</text>
+<rect x="57"  y="549" width="9" height="14" fill="#D97757" opacity="0.6"/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  SECTION 3 · ABOUT / FOCUS                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<line x1="0" y1="580" x2="900" y2="580" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+
+<text x="40"  y="603" fill="#888" font-family="'Courier New',Courier,monospace" font-size="14">ninodinoo@dev</text>
+<text x="178" y="603" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="14">  ~/about  &#x26A1;</text>
+
+<line x1="0" y1="614" x2="900" y2="614" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+
+<text x="40"  y="638" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="14">$</text>
+<text x="57"  y="638" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="14">cat focus.txt</text>
+
+<text x="40"  y="662" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="14">&#x25B8;</text>
+<text x="60"  y="662" fill="#cccccc" font-family="'Courier New',Courier,monospace" font-size="14">Building AI tools &amp; Claude Code extensions</text>
+
+<text x="40"  y="683" fill="#444" font-family="'Courier New',Courier,monospace" font-size="14">&#x25B8;</text>
+<text x="60"  y="683" fill="#888" font-family="'Courier New',Courier,monospace" font-size="14">MCP servers for AI-powered workflows</text>
+
+<text x="40"  y="704" fill="#444" font-family="'Courier New',Courier,monospace" font-size="14">&#x25B8;</text>
+<text x="60"  y="704" fill="#888" font-family="'Courier New',Courier,monospace" font-size="14">Cross-platform mobile apps (Flutter + Supabase)</text>
+
+<text x="40"  y="725" fill="#444" font-family="'Courier New',Courier,monospace" font-size="14">&#x25B8;</text>
+<text x="60"  y="725" fill="#888" font-family="'Courier New',Courier,monospace" font-size="14">LLM research, agentic systems &amp; prompt engineering</text>
+
+<text x="40"  y="746" fill="#D97757" font-family="'Courier New',Courier,monospace" font-size="14">$</text>
+<rect x="57"  y="733" width="9" height="14" fill="#D97757" opacity="0.6"/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  SECTION 4 · FOOTER                                   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<line x1="0" y1="764" x2="900" y2="764" stroke="#2a2a2a" stroke-width="1.5" stroke-dasharray="3,5"/>
+
+<text x="40"  y="787" fill="#3e3e3e" font-family="'Courier New',Courier,monospace" font-size="13">ninodinoo@dev  ·  session: active  ·  &#x1F995;  v1.0.0  ·  logout? [n]</text>
+<text x="40"  y="807" fill="#2a2a2a" font-family="'Courier New',Courier,monospace" font-size="11">Syntax theme: ninodinoo  (claude-code edition)</text>
 
 </svg>
