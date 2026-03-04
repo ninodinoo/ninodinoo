@@ -1,92 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nino&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%E2%80%A2%20Claude%20Code%20Power%20User%20%E2%80%A2%20Builder&descAlignY=55&descSize=16" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI-powered+tools+%F0%9F%A4%96;Claude+Code+Power+User+%26+Contributor+%E2%9A%A1;Flutter+%7C+Supabase+%7C+AI+Tooling;Turning+ideas+into+production+software+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=%24+whoami+ninodinoo;%24+./launch-ai-tools.sh+%E2%9A%A1;%24+claude+--power-user+%2F%2Fmode%3Aon;%24+flutter+build+--release+%F0%9F%9A%80;%24+_)](https://git.io/typing-svg)
 
 </div>
 
----
+<br>
 
-## whoami
-
-```typescript
-const nino = {
-  role:     ["AI Developer", "Claude Code Power User", "Mobile Engineer"],
-  focus:    ["AI Tooling", "LLM Integration", "Cross-platform Apps"],
-  building: "Claude Code extensions, tools & AI-augmented workflows",
-  stack:    ["Flutter", "Dart", "Supabase", "Java", "Kotlin"],
-  mindset:  "Ship fast. Build smart. Automate everything.",
-};
+```
+╭─────────────────────────────────────────────────────────────────────────────╮
+│  ⬤ ⬤ ⬤   ninodinoo — zsh                                      [main] ⚡  │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
-I'm a developer who sits at the intersection of **AI tooling and software engineering**. I build and extend **Claude Code** – Anthropic's AI coding CLI – writing custom tools, MCP servers, and integrations that push the boundaries of AI-assisted development.
+```
+ninodinoo@dev ~ $ whoami
 
-Beyond AI tooling, I develop **cross-platform mobile apps** with Flutter, architect backends on Supabase, and automate anything that can be automated.
+      __              ╔═══════════════════════════════════════════╗
+     / _)             ║  Nino                                     ║
+  .-^^^-/ /           ║  ─────────────────────────────────────    ║
+ __/       /          ║  role    AI Developer & Builder           ║
+<__.|_|-|_|           ║  age     18                               ║
+  🦕 dinoo            ║  focus   AI Tooling · Flutter · LLMs      ║
+                      ║  base    github.com/ninodinoo             ║
+                      ╚═══════════════════════════════════════════╝
 
----
+ninodinoo@dev ~ $ cat about.txt
 
-## What I Build
+  ❯  Claude Code Power User & Extension Developer
+  ❯  Building MCP servers & custom AI-powered workflows
+  ❯  Cross-platform mobile apps with Flutter + Supabase
+  ❯  Researching agentic systems, prompt engineering & LLM limits
+  ❯  Automating everything that can be automated
 
-| Area | What |
-|---|---|
-| 🤖 **AI Tooling** | Claude Code extensions, MCP servers, custom AI workflows |
-| 📱 **Mobile Apps** | Flutter apps with clean architecture & Supabase backend |
-| ⚙️ **Developer Tools** | CLIs, automation scripts, productivity tooling |
-| 🔬 **AI Research** | Exploring LLM capabilities, agentic systems, prompt engineering |
+ninodinoo@dev ~ $ ls ./tech-stack/
 
----
+  ai/          →  claude-code/  mcp-servers/  anthropic-sdk/
+  mobile/      →  flutter/      dart/         kotlin/
+  backend/     →  supabase/     postgresql/   firebase/
+  languages/   →  java/         typescript/   assembly/
 
-## Tech Stack
+ninodinoo@dev ~ $ git log --oneline --all
 
-<div align="left">
+  f3a91bc  (HEAD) build: new claude-code tool shipped
+  c8d42e1  feat: mcp server for AI workflow automation
+  9b17d20  feat: flutter app with supabase realtime sync
+  2e503f4  research: agentic systems & LLM capabilities
+  ...
 
-**Languages**
+ninodinoo@dev ~ $ █
+```
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend & Infrastructure**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI & Tooling**
-
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Servers-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ninodinoo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninodinoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ninodinoo&theme=tokyonight&hide_border=true&date_format=j.%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+<br>
 
 ---
 
 <div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=ninodinoo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=a78bfa" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninodinoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=a78bfa" />
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ninodinoo&theme=tokyonight&hide_border=true&date_format=j.%20M%5B%20Y%5D&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ninodinoo&color=7c3aed&style=flat-square&label=Profile+Views)
 
-*"The best tool is the one you built yourself."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+```
+[ "The best tool is the one you built yourself." ]
+```
 
 </div>
